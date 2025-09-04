@@ -1,0 +1,4 @@
+territory, volleyball, partner, sidewalk, trucks, trip, band, digestion, bubble, nest, note, touch, sun, birthday, wealth, hospital, drum
+1, 3990315, air, -0.023438, [, 47, -3.753906, 0, 1, 0, 0, 14, 10, 14, 32113ef, 0, 0.015472
+1, -1, theory, -105334.675781, 4, 3, -35.374023, 0, 1, 1, 1, 2380, 4, 142952, 126c3f0ee88, 1, 0.044128
+1, -363428, cactus, -0.001953, !, 17, 24.755859, 1, 1, 1, 0, 5766, 0, -122186, b, 1, -5.721161

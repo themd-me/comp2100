@@ -1,0 +1,2 @@
+territory, volleyball, partner, sidewalk, trucks, trip, band, digestion, bubble, nest, note, touch, sun, birthday, wealth, hospital, drum
+1, -8928957, pet, -3518.250000, R, 6, 0.517578, 1, 1, 1, 0, 26800, 4, -1896, ffffffffffffffff, 0, -0.007080

@@ -1,0 +1,20 @@
+This file lists the fields of your data records in the order they occur in data files.
+ 
+ 
+The 'territory' field shall be a 4-byte Boolean
+The 'volleyball' field shall be a 4-byte integer
+The 'partner' field shall be a fixed-length string of up to 7 characters (including one or more nulls)
+The 'sidewalk' field shall be an 8-byte floating point number
+The 'trucks' field shall be a 1-byte character
+The 'trip' field shall be a 1-byte unsigned integer
+The 'band' field shall be a 4-byte floating point number
+The 'digestion' field shall be a 1-byte Boolean
+The 'bubble' field shall be a 4-byte Boolean
+The 'nest' field shall be a 2-byte Boolean
+The 'note' field shall be a 2-byte Boolean
+The 'touch' field shall be a 2-byte unsigned integer
+The 'sun' field shall be a 1-byte integer
+The 'birthday' field shall be a 4-byte integer
+The 'wealth' field shall be an 8-byte integer
+The 'hospital' field shall be a 4-byte Boolean
+The 'drum' field shall be a 4-byte floating point number
